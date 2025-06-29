@@ -194,4 +194,10 @@ footer{
         align-items: center;
         gap: 2rem;
     }
+    .section{
+        padding: 0 2.5rem;
+    }
+    .section__img{
+        width: 18rem;
+    }
 }
